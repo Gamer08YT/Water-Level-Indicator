@@ -25,7 +25,7 @@ In this Projekt we use the NodeMCU V3 because the cheap price and performance.
 
 I made this simple Sketch with Fritzing:
 
-![Breadboard](https://cloud.nexusserv.eu/index.php/apps/files_sharing/publicpreview/sZyraXTyBXX8yse?x=1880&y=589&a=true&file=Wasserstand_Steckplatine.png&scalingup=0 "Breadboard")
+![Breadboard](https://github.com/Gamer08YT/Water-Level-Indicator/blob/master/Wasserstand_Steckplatine.png "Breadboard")
 
 For the Power i used some old Laptop battery pack, which works perfekt for me.
 For Powersaving you can set the NodeMCU in sleep mode!
