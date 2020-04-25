@@ -1,2 +1,2 @@
-# water_level_indicator
+# Water Level Indicator
 A simple NodeMCU Ultrasonic Water Level Indicator
