@@ -11,6 +11,7 @@
 2. Construction
 3. Programming
 4. App creation
+5. 3D Casing
 
 ##### Parts
 - NodeMCU V3
@@ -42,3 +43,6 @@ For Powersaving you can set the NodeMCU in sleep mode!
 - Select ESP8266 as Board
 - Enter the Auth Token in the Arduino Sketch
 - Add a Gauge or something else and select V5 as pin. 
+
+##### 3D Casing
+Comming soon ... (5-12 days)
