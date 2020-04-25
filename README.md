@@ -45,4 +45,9 @@ For Powersaving you can set the NodeMCU in sleep mode!
 - Add a Gauge or something else and select V5 as pin. 
 
 ##### 3D Casing
+
+###### Basic Sensor Casing
+![Sensor-Casing](https://github.com/Gamer08YT/Water-Level-Indicator/blob/master/fusion360-sensor.jpg "Sensor-Casing")
+
+
 Comming soon ... (5-12 days)
