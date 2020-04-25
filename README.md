@@ -7,9 +7,16 @@
 # Water Level Indicator
 ### A simple NodeMCU Ultrasonic Water Level Indicator
 
-1. Construction
-2. Programming
-3. App creation
+1. Parts
+2. Construction
+3. Programming
+4. App creation
+
+##### Parts
+- NodeMCU V3
+- HC-SR04
+- Simple Switch
+- Old Laptop battery pack or other Power source
 
 ##### Construction
 In this Projekt we use the NodeMCU V3 because the cheap price and performance.
@@ -22,14 +29,14 @@ I made this simple Sketch with Fritzing:
 For the Power i used some old Laptop battery pack, which works perfekt for me.
 For Powersaving you can set the NodeMCU in sleep mode!
 
-#####Programming
+##### Programming
 - Install Driver ([Download](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers "Download"))
 - Install Arduino IDE ([Download](https://www.arduino.cc/en/main/software "Download"))
 - Add Board in Arduino Board Manager : https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Select NodeMCU 0.9 as Board
 - Upload Sketch
 
-#####App creation 
+##### App creation 
 - Go to your App Store / Play Store and download Blynk
 - Create a new Projekt
 - Select ESP8266 as Board
